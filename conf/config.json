@@ -1,0 +1,11 @@
+{
+  "server": {
+    "host": "0.0.0.0",
+    "port": "80",
+    "mode": "Debug"
+  },
+  "wxwork": {
+    "Token": "CZI9mKTK2IjOhOzEVVKrG6ihAt3Eol",
+    "EncodingAESKey": "98NUu1EqXUJ5alhFtxYzDKwIYujBe2pzGuYVUNvjQjE"
+  }
+}
